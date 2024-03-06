@@ -6,3 +6,4 @@
 #include "format.h"
 #include "types.h"
 #include "array.h"
+#include "random.h"
